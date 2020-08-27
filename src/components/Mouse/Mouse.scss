@@ -1,0 +1,16 @@
+@import '../../index.scss';
+
+.mouse-component {
+  position: absolute;
+  text-align: center;
+  width: 100px;
+  bottom: 50px;
+  left: calc(50% - 50px);
+  h2 {
+    padding: 0.5em 0;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 8px;
+    font-weight: 400;
+  }
+}
