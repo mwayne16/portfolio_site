@@ -1,0 +1,9 @@
+@import '../../index.scss';
+
+.projects-slider {
+  width: 200vw;
+  height: 100vh;
+  transform: translateX(65%);
+  background: $secondary-color;
+  z-index: 1;
+}

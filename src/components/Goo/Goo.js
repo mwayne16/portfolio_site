@@ -34,19 +34,16 @@ const GooMesh = () => {
         value: 0.3,
       },
       eqcolor: {
-        value: 8,
+        value: 17,
       },
       rcolor: {
-        value: 1.5,
+        value: 0,
       },
       gcolor: {
-        value: 2.0,
+        value: 0,
       },
       bcolor: {
-        value: 2.0,
-      },
-      fragment: {
-        value: true,
+        value: 0.5,
       },
     }),
     []
